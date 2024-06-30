@@ -4,10 +4,10 @@ with open("README.md", "r") as fh:
     long_description = fh.read()
 
 setuptools.setup(
-    name='jb_bootcamp',
+    name='ss_bootcamp',
     version='0.0.1',
-    author='Justin Bois',
-    author_email='bois@caltech.edu',
+    author='Sherry Sun',
+    author_email='sherry@caltech.edu',
     description='Utilities for use in bootcamp.',
     long_description=long_description,
     long_description_content_type='text/markdown',
